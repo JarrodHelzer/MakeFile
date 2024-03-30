@@ -7,4 +7,5 @@ This is my first attempt at creating a full build process for an out-of-the-box 
 Inspiration drawn from:
 
 Dr. Xu Wang
-Mathias Bynens <https://mathiasbynens.be/>
+
+Corey Schafer https://www.youtube.com/@coreyms
